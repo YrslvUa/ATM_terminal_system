@@ -1,4 +1,5 @@
-# Simulated operation of the "ATM/terminal" system. The amount of the user's balance and the access pin code is transferred when creating the object attributes.
+# Simulated operation of the "ATM/terminal" system. 
+The amount of the user's balance and the access pin code is transferred when creating the object attributes.
 
 Pin code verification is called automatically when the object is created and requires three attempts. If the login is completed, the balance is automatically recorded in a separate text file + the balance of the system itself is stored in another file.
 
