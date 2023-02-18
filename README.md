@@ -13,6 +13,6 @@ The following actions are available to the user:
 
 4. Transfer a certain amount to any currency. After the operation, another attribute will be created for the user (amount of funds in the specified currency), the value of which will be stored in a new text file.
 
-5. Each operation is recorded in a separate file in a dictionary, where the key is time + date (datetime.now()), and the value is the type of operation performed.
+5. Each operation is recorded in a separate txt-file in a dictionary, where the key is time + date (datetime.now()), and the value is the type of operation performed.
 
 Imitation and encapsulation are present.
